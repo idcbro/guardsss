@@ -1,0 +1,17 @@
+{
+  "name": "shx",
+  "version": "0.0.1",
+  "description": "shx shinoa",
+  "main": "shxrda.js",
+  "scripts": {
+    "test": "node shxrda.js"
+  },
+  "author": "Yashinu",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "moment": "^2.27.0",
+    "mongoose": "^5.13.8"
+  },
+  "keywords": []
+}
